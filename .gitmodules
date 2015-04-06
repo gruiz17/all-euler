@@ -1,9 +1,9 @@
-[submodule "swift-euler"]
-	path = swift-euler
-	url = https://github.com/gruiz17/swift-euler.git
+[submodule "SwiftEuler"]
+	path = SwiftEuler
+	url = https://github.com/gruiz17/SwiftEuler
 [submodule "clojure-euler"]
 	path = clojure-euler
-	url = https://github.com/gruiz17/clojure-euler.git
+	url = https://github.com/gruiz17/clojure-euler
 [submodule "rb-euler"]
 	path = rb-euler
-	url = https://github.com/gruiz17/rb-euler.git
+	url = https://github.com/gruiz17/rb-euler
